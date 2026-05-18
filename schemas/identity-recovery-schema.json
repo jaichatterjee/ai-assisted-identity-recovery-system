@@ -1,0 +1,9 @@
+{
+  "User":"",
+  "IdentityRisk":"",
+  "DeviceCompliance":"",
+  "AuthenticationStrength":"",
+  "BehaviorSignals":"",
+  "Decision":"",
+  "Action":""
+}
